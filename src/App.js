@@ -4,10 +4,13 @@ import AppExt from './AppExt'
 import {BrowserRouter as Router,Route, Link} from 'react-router-dom'
 function App() {
   return(
-<Router>
+    <div>
+      This is my first react app
+    </div>
+{/* <Router>
   <Route exact path="/" component={AppBody}></Route>
   <Route exact path="/new" component={AppExt}></Route>
-</Router>
+</Router> */}
   );
 }
 const AppBody = () =>{
