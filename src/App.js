@@ -19,7 +19,7 @@ const AppBody = () =>{
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <Link to='/new'>
-          Learn Lijin's React
+          Learn Lijin's React On the way
           </Link>
       </header>
     </div>
